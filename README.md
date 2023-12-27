@@ -1,6 +1,6 @@
 ## Projeto de Portfólio
 
-<img alt="sistema" src=".github/preview.png" width="100%">
+<img alt="preview" src="preview.png" width="100%">
 
 ## Descrição
 
