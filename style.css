@@ -12,10 +12,10 @@ body {
 }
 
 .form-group {
-    margin-bottom: 15px; /* Adapte o valor conforme necessário */
+    margin-bottom: 15px; 
 }
 
-/* Outras regras de estilo para o formulário ... */
+
 #btn-fechar-form {
     position: absolute;
     top: 10px;
@@ -31,7 +31,7 @@ body {
 }
 
 #btn-fechar-form:hover i {
-    color: #00FF08; /* Cor desejada ao passar o mouse */
+    color: #00FF08; 
 }
 
 
@@ -39,7 +39,7 @@ body {
     color: #fff;
     font-size: 38px;
     text-align: center;
-    margin-bottom: 20px; /* Adapte conforme necessário */
+    margin-bottom: 20px;
 }
 
 
@@ -372,12 +372,7 @@ section.portfolio .flex{
 }
 
 
-.ensino .escolaridade-box p {
-    font-size: 16px;
-    margin: 0px 0;
-}
 
-/* Adicione mais estilos conforme necessário */
 
 form{
     max-width: 500px;
@@ -429,10 +424,10 @@ footer{
 
 .footer-icons-top {
     display: flex;
-    gap: 25px; /* Espaçamento entre os ícones */
+    gap: 25px; 
     justify-content: center;
     margin-top: 10px;
-    justify-content: flex-start; /* Alinhar à esquerda */
+    justify-content: flex-start; 
 }
 
 .footer-icons-top a{
@@ -441,13 +436,12 @@ footer{
 }
 
 .footer-icons-top a:hover {
-    /* Adicione estilos de hover específicos se necessário */
     color: #00FF08;
 }
 
 .footer-icons {
     display: flex;
-    gap: 25px; /* Espaçamento entre os ícones */
+    gap: 25px; 
     justify-content: center;
     margin-top: 10px;
 }
